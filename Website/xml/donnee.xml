@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="maquette.xsl" type="text/xsl" ?>
+<musee nom="Fabre">
+	<salle nom="Griffon">
+		<secteur nom="Courbet">
+			<oeuvre des="alice" y="5" x="6" width="65" height="65" url="image.jpg" type="peinture" auteur="Picasso">tableau 1 Picasso</oeuvre>
+			<oeuvre des="bob" y="5" x="26" width="65" height="65" url="image.jpg" type="peinture" auteur="Picasso">tableau 2 Picasso</oeuvre>
+			<oeuvre des="toto" y="5" x="36" width="65" height="65" url="image.jpg" type="peinture" auteur="Picasso">tableau 3 Picasso</oeuvre>
+			<oeuvre des="hello wordl" y="5" x="6" width="65" height="65" url="image.jpg" type="peinture" auteur="Picasso">tableau 3 Picasso</oeuvre>
+			<oeuvre y="5" x="6" width="65" height="65" url="image.jpg"  type="sculture" auteur="Alice">sculture 1 Alice</oeuvre>
+		</secteur>
+	</salle>
+	<salle nom="Phenix">
+		<secteur nom="Dali">
+			<oeuvre type="peinture" auteur="Dali"></oeuvre>
+		</secteur>
+	</salle>
+</musee>
+
+<!--ville nom="Montpellier">
+<defibrilateur id="1">
+	<Lieu nom="hotel de ville"> </Lieu>
+	<adresse rue="1 rue montpeller" codePostal="34000"> </adresse>
+	<tel num="06 45 65 12 32"></tel> 
+	<tel num="06 56 65 12 32"></tel> 
+	<coordonnees x="11" y="22"></coordonnees>
+</defibrilateur>
+
+<defibrilateur id="1">
+	<Lieu nom="hotel de police"> </Lieu>
+	<adresse rue="1 route de mende" codePostal="34090"> </adresse>
+	<tel num="06 45 65 12 32"></tel> 
+	<tel num="06 56 65 12 65"></tel> 
+	<coordonnees x="11" y="22"></coordonnees>
+</defibrilateur>
+</ville-->

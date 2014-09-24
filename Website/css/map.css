@@ -1,0 +1,36 @@
+@import url(font-awesome/css/font-awesome.min.css);
+
+body {
+  padding-top: 60px;
+}
+.map {
+  height: 400px;
+  width: 100%;
+}
+.ol-attribution {
+  max-width: 50%;
+}
+#tags {
+  display: none;
+}
+
+#frontlayer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin-top: 25px;
+    width: 1000px;
+    height: 500px;
+    border: 0px solid black;
+    z-index: 10;
+    
+} 
+
+/* padding for social links to match bootstrap nav links */
+.nav>li>.twitter-share-button, .nav>li>.g-plusone-wrapper, .nav>li>.github-watch-button {
+  padding: 10px 10px 0px;
+}
+
+
